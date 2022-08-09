@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Samuel Iheagwam | Portfolio</title>
+    <link>https://psalmuel69.github.io/Portfolio/categories/</link>
+    <description>Recent content in Categories on Samuel Iheagwam | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 Made with Love for Data😊</copyright>
+    <lastBuildDate>Sat, 23 Jul 2022 12:14:34 +0600</lastBuildDate><atom:link href="https://psalmuel69.github.io/Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Wrangling</title>
+      <link>https://psalmuel69.github.io/Portfolio/categories/data-wrangling/</link>
+      <pubDate>Sat, 23 Jul 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://psalmuel69.github.io/Portfolio/categories/data-wrangling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploratory Analysis</title>
+      <link>https://psalmuel69.github.io/Portfolio/categories/exploratory-analysis/</link>
+      <pubDate>Sat, 23 Jul 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://psalmuel69.github.io/Portfolio/categories/exploratory-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://psalmuel69.github.io/Portfolio/categories/machine-learning/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://psalmuel69.github.io/Portfolio/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ongoing</title>
+      <link>https://psalmuel69.github.io/Portfolio/categories/ongoing/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://psalmuel69.github.io/Portfolio/categories/ongoing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

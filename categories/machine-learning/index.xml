@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Samuel Iheagwam | Portfolio</title>
+    <link>https://psalmuel69.github.io/Portfolio/categories/machine-learning/</link>
+    <description>Recent content in Machine Learning on Samuel Iheagwam | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 Made with Love for Data😊</copyright>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://psalmuel69.github.io/Portfolio/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sentence Generator For a Nigerian indegenious language</title>
+      <link>https://psalmuel69.github.io/Portfolio/portfolio/project-5/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://psalmuel69.github.io/Portfolio/portfolio/project-5/</guid>
+      <description>The sentence generator is an ongoing project that uses artificial intelligence to create high-quality, unique content based on trained data of a Nigerian indegenious language .</description>
+    </item>
+    
+  </channel>
+</rss>

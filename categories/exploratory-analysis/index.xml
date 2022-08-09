@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exploratory Analysis on Samuel Iheagwam | Portfolio</title>
+    <link>https://psalmuel69.github.io/Portfolio/categories/exploratory-analysis/</link>
+    <description>Recent content in Exploratory Analysis on Samuel Iheagwam | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 Made with Love for Data😊</copyright>
+    <lastBuildDate>Sat, 23 Jul 2022 12:14:34 +0600</lastBuildDate><atom:link href="https://psalmuel69.github.io/Portfolio/categories/exploratory-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We Rate Dogs Twitter Analysis</title>
+      <link>https://psalmuel69.github.io/Portfolio/portfolio/project-4/</link>
+      <pubDate>Sat, 23 Jul 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://psalmuel69.github.io/Portfolio/portfolio/project-4/</guid>
+      <description>Project Details This data wrangling project is the second of my Udacity Data Analysis program, which is aimed to showcase my ability to gathering, assessing, cleaning, and analyzing a dataset.</description>
+    </item>
+    
+    <item>
+      <title>TMDB Data Analysis</title>
+      <link>https://psalmuel69.github.io/Portfolio/portfolio/project-3/</link>
+      <pubDate>Sun, 29 May 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://psalmuel69.github.io/Portfolio/portfolio/project-3/</guid>
+      <description>Project Details The Movie Database (TMDB) is a popular, user editable database for movies and TV shows.</description>
+    </item>
+    
+    <item>
+      <title>EDA-Forbes World Richest Billionaire&#39;s 2022</title>
+      <link>https://psalmuel69.github.io/Portfolio/portfolio/project-1/</link>
+      <pubDate>Sun, 10 Apr 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://psalmuel69.github.io/Portfolio/portfolio/project-1/</guid>
+      <description>Project Details Forbes world&amp;rsquo;s billionaire&amp;rsquo;s list is an annual ranking of the world’s biggest billionaire&amp;rsquo;s and their networth value cut across 4 major points; country, industry, source of income and philanthropy rating.</description>
+    </item>
+    
+    <item>
+      <title>Agricultural Raw Materials Prices</title>
+      <link>https://psalmuel69.github.io/Portfolio/portfolio/project-6/</link>
+      <pubDate>Mon, 15 Nov 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://psalmuel69.github.io/Portfolio/portfolio/project-6/</guid>
+      <description>Project Details This project is an exploratory data analysis of the prices of agricultural materials from 1990 - 2020.</description>
+    </item>
+    
+    <item>
+      <title>EDA-Diamond Prices</title>
+      <link>https://psalmuel69.github.io/Portfolio/portfolio/project-2/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://psalmuel69.github.io/Portfolio/portfolio/project-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
